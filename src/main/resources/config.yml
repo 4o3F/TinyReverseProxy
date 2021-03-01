@@ -1,0 +1,6 @@
+localport: 8123
+publicport: 8124
+publicdomain: map.arkpixel.tech
+cert:
+  name: "pkcs.p12"
+  password: "passout"
